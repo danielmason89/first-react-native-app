@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "review-react-native-app",
-    "slug": "review-react-native-app",
+    "name": "first-react-native-app",
+    "slug": "first-react-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

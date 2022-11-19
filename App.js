@@ -1,6 +1,10 @@
 import React from "react";
-import Home from "./screens/home";
+import { View, Text } from "react-native";
 
 export default function App() {
-  return <Home />;
+  return (
+    <View>
+      <Text> A Test App</Text>
+    </View>
+  );
 }
